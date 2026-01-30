@@ -62,8 +62,8 @@ Make sure you have the following software installed on your local machine:
 
 ## Admin credentials
 -Email: boss@admin.bk
--Password:boss@bk
+-Password:######
 
 ## Security credentials
 -Staff_ID:BK20
--Password:password1
+-Password:#######
